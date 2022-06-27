@@ -1,0 +1,4 @@
+C:\Users\GoldStump\source\repos\MLTA\GraphicFunction\x64\Debug\GraphicFunction.vcxproj.AssemblyReference.cache
+C:\Users\GoldStump\source\repos\MLTA\GraphicFunction\x64\Debug\GraphicFunction.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\GoldStump\source\repos\MLTA\GraphicFunction\x64\Debug\GraphicFunction.MainForm.resources
+C:\Users\GoldStump\source\repos\MLTA\GraphicFunction\x64\Debug\GraphicFunction.vcxproj.GenerateResource.cache
