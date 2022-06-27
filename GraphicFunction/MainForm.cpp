@@ -1,6 +1,13 @@
+/*
+* Program drawing a Bezier curve of the third order.
+* Author: Vadim Remezov
+*/
+
+
 #include "MainForm.h"
 using namespace System;
 using namespace System::Windows::Forms;
+
 
 [STAThreadAttribute]
 int main(array<String^>^ args)
